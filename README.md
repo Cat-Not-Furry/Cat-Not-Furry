@@ -1,9 +1,7 @@
 <h1>Hi, I’m Cat-Not-Furry.</h1>
-<h4>- 👀 I’m interested in create open source.</h4>
+<h4>- 👀 I’m interested in create open source. (especially to revive dinosaurs)</h4>
 <h4>- 🌱 I’m currently learning programming languages.</h4>
 <h4>- 💞️ I’m looking to collaborate on  any field (doing basic things)</h4>
-<h4>- 📫 My closest means of contact www.youtube.com/@catnotfurryenespanol1130</h4>
-<h4>- 😄 Pronouns: Cipactli_MX in case he finds me in a fightcade</h4>
 <h4>- ⚡ Fun facts: I use Arch Linux on a computer that's two decades old! I'll share my story soon.</h4> 
 <h4>                 And my favorite character in fighting games is K'</h4>
 
