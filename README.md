@@ -4,8 +4,6 @@
 <h4>- 💞️ I’m looking to collaborate on  any field (doing basic things)</h4>
 <h4>- ⚡ Fun facts: <br>I use Arch Linux on a computer that's two decades old! I'll share my story soon.<br>And my favorite character in fighting games is K'</h4>
 
-<img src="/imagenes/imagen.png">
-
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><b> Fake Skills</b>
 <br>
 <p align="center">
