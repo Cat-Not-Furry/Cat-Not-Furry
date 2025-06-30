@@ -1,5 +1,5 @@
 # Hi, I’m Cat-Not-Furry.
-- Systems Engineering Student | Advanced Linux User | Game Developer in Progress
+- Systems Engineering Student | Linux User | Game Developer in Progress to a Junior
 - I work with minimalist tools like Arch Linux, i3wm, Bash and Neovim.
 - I like modular systems, projects that teach, and complete control over my environment.
 - I’m interested in create open source. (especially to revive dinosaurs).
